@@ -6,10 +6,10 @@ with all general technologies in 2023
 - Creating a new User by filling out all inputs and submiting the form.
 - Full responsive with pure CSS
 
-For Run (Both server and client):
+For Run (Both server and client) :
 ```
 npm install
-Step 2: npm run start
+npm run start
 ```
 ## Learn
 
