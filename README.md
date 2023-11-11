@@ -4,7 +4,7 @@ with all general technologies in 2023
 
 - Getting all User's data from a mongoDB.
 - Creating a new User by filling out all inputs and submiting the form.
-- Full responsive with pure CSS
+- Full responsive with pure CSS.
 
 For Run (Both server and client) :
 ```
